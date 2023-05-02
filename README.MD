@@ -1,4 +1,5 @@
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Discord:</h3>
+<h6>Roblux#1564</h6>
 <p align="left">
 </p>
 
