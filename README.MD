@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Roblox and I'm a developer from the Netherlands</h2>
+<h2 align="left">Hi 👋! My name is Roblux and I'm a developer from the Netherlands</h2>
 
 ###
 
